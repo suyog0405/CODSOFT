@@ -29,7 +29,7 @@ python todo_gui.py
 ```
 ## Sample GUI Output
 
-![To-Do List GUI](sample_output.jpg)
+![To-Do List GUI](screenshot.png)
 
 ## 💻 Technologies Used
 
