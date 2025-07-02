@@ -11,7 +11,7 @@ A basic command-line calculator that supports:
 - Multiplication
 - Division (with zero-division check)
 
-[View Task 1](Task_1_Calculator/)
+[View Task 1](TASK_1_CALCULATOR/)
 
 ---
 
@@ -20,7 +20,7 @@ A simple CLI password generator that lets the user define:
 - Desired password length
 - Inclusion of letters, numbers, and symbols
 
-[View Task 2](Task_2_Password_Generator/)
+[View Task 2](TASK_2_PASSWORD_GENERATOR/)
 
 ---
 
@@ -33,7 +33,7 @@ Features include:
 - Adding, deleting, and marking tasks as completed
 - Persistent saving of tasks to a file
 
-[View Task 3](Task_3_To_Do_List/)
+[View Task 3](TASK_3_TO_DO_LIST/)
 
 ---
 
